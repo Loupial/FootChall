@@ -19,8 +19,12 @@ Using the command go to the directory where you downloaded the script, and run i
 ## Usage
 
 2 files : 
--Footbar.ipynb : The Jupyter notebook where you can find the analytics and the explanations 
+
+-Footbar.ipynb : The Jupyter notebook where you can find the analytics and the explanations.
+
 -Simulations.py : The Python script containing the code to generate as may game as you want, that can be run as a one-liner.
+
+
 
 Examples : python Simulations.py --Number_games 1 --Time 10 --Mode 'Defending'
 
