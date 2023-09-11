@@ -30,7 +30,7 @@ Using the command go to the directory where you downloaded the script, and run i
 
 Examples : python Simulations.py --Number_games 1 --Time 10 --Mode 'Defending'
 
-<u>Arguments:</u>
+### Arguments:
 + '-n'/ '--Number_games' / type=int / required=True / **Number of games you want to simulate**
 
 + '-t' / '--Time' / type=int / required=True / **Duration of the games you want to simulate'**
