@@ -13,9 +13,12 @@ A Football datascience Challenge : Generative AI recreating football game
 ## Installation
 
 Download the project. 
+
 **Make sure that you put the data inside the "Data" folder.**
+
 For the exercise we only used the 2 games provided, but you can always put as many as you want. 
-Using the command go to the directory where you downloaded the script, and run it.
+
+Using the command, go to the directory where you downloaded the script, and run it.
 
 
 ## Usage
