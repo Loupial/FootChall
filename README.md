@@ -13,11 +13,8 @@ A Football datascience Challenge : Generative AI recreating football game
 ## Installation
 
 Download the project. 
-
 **Make sure that you put the data inside the "Data" folder.**
-
 For the exercise we only used the 2 games provided, but you can always put as many as you want. 
-
 Using the command, go to the directory where you downloaded the script, and run it.
 
 
@@ -31,7 +28,9 @@ Using the command, go to the directory where you downloaded the script, and run 
 
 
 
-Examples : python Simulations.py --Number_games 1 --Time 10 --Mode 'Defending'
+Examples :
+- python Simulations.py --Number_games 1 --Time 10 --Mode 'Defending'
+- python Simulations.py --Number_games 3 --Time 10 --Mode 'Defending' 'Attacking' 'Normal' -w 8
 
 **Arguments:**
 
